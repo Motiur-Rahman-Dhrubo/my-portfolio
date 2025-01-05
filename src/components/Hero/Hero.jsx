@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Hero = () => {
     return (
-        <div className="w-11/12 rounded-2xl mx-auto flex flex-col md:flex-row-reverse shadow-xl md:px-12 md:py-0 p-6 md:gap-12 gap-6 mt-10">
+        <div className="w-11/12 rounded-2xl mx-auto flex flex-col md:flex-row-reverse shadow-xl md:px-12 md:py-0 p-6 md:gap-12 gap-6 md:mt-10 mt-6">
             <div className="md:w-1/2 w-full">
                 <img src="/assets/me.png" alt="my_img" className="w-full"/>
             </div>

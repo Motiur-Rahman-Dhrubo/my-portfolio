@@ -4,7 +4,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 const AboutMeSec = () => {
     return (
-        <div className="w-11/12 rounded-2xl mx-auto shadow-xl bg-[#F1F1F1] mt-10 md:p-12 p-6">
+        <div className="w-11/12 rounded-2xl mx-auto shadow-xl bg-[#F1F1F1] md:mt-10 mt-6 md:p-12 p-6">
             <h2 className="md:text-3xl text-2xl font-bold text-center">About Me:</h2>
             <div className="md:mt-6 mt-2 flex gap-4">
                 <FaQuoteLeft className="text-9xl h-min min-w-6 text-yellow-500 hidden md:flex"/>
