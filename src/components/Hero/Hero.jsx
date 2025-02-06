@@ -9,7 +9,7 @@ const Hero = () => {
             <div className="md:w-1/2 w-full flex items-end">
                 <img src="/assets/me.png" alt="my_img" className="w-full"/>
             </div>
-            <div className="md:w-1/2 w-full flex flex-col justify-center gap-2 md:py-4">
+            <div className="md:w-1/2 w-full flex flex-col justify-center gap-2 md:py-8">
                 <h2 className="text-base">HI THERE! I’M</h2>
                 <h2 className="text-2xl font-medium text-[#062561]">MD. MOTIUR RAHMAN</h2>
                 <p className="text-base">A <span className="font-semibold text-[#062561]">Junior Front-End Web Developer</span> passionate about creating interactive application and experiences on the web.</p>
