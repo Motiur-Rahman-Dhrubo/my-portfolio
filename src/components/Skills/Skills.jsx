@@ -1,8 +1,8 @@
 const Skills = () => {
     return (
-        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 mt-6 md:p-12 p-6 min-h-96">
+        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 mt-6 md:p-12 p-6">
             <h2 className="md:text-3xl text-2xl font-bold text-center">My Skills:</h2>
-            <div className="mt-6 flex md:gap-4 gap-2 flex-wrap justify-center">
+            <div className="md:mt-6 mt-2 flex md:gap-4 gap-2 flex-wrap justify-center">
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
                     <img src="/assets/html.png" alt="html" className="w-full"/>
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">HTML5</p>

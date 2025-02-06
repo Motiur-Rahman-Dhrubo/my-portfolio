@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 const ProjectsSec = ({ projects }) => {
     const my_projects = projects.slice(0, 3);
     return (
-        <div className="w-11/12 rounded-2xl mx-auto shadow-xl bg-[#F1F1F1] md:mt-10 mt-6 md:p-12 p-6 flex md:gap-4 gap-2">
+        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 mt-6 md:p-12 p-6 flex md:gap-4 gap-2">
             {my_projects.map((project) => (
                 <div key={project._id} className='bg-white rounded-2xl'>
                     <img src={project.project_img} alt="web template" className='rounded-2xl w-full aspect-[5/3] border-b'/>
