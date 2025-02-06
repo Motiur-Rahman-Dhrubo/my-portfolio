@@ -5,11 +5,11 @@ import { FaGithub } from "react-icons/fa";
 
 const Hero = () => {
     return (
-        <div className="w-11/12 rounded-2xl mx-auto flex flex-col md:flex-row-reverse shadow-xl md:px-12 md:py-0 p-6 md:gap-12 gap-6 md:mt-10 mt-6">
-            <div className="md:w-1/2 w-full">
+        <div className="w-11/12 rounded-2xl mx-auto flex flex-col md:flex-row-reverse shadow-xl lg:px-12 md:px-8 md:py-0 p-6 md:gap-12 gap-6 md:mt-10 mt-6">
+            <div className="md:w-1/2 w-full flex items-end">
                 <img src="/assets/me.png" alt="my_img" className="w-full"/>
             </div>
-            <div className="md:w-1/2 w-full flex flex-col justify-center gap-2">
+            <div className="md:w-1/2 w-full flex flex-col justify-center gap-2 md:py-4">
                 <h2 className="text-base">HI THERE! I’M</h2>
                 <h2 className="text-2xl font-medium text-[#062561]">MD. MOTIUR RAHMAN</h2>
                 <p className="text-base">A <span className="font-semibold text-[#062561]">Junior Front-End Web Developer</span> passionate about creating interactive application and experiences on the web.</p>

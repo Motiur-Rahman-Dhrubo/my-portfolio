@@ -1,8 +1,8 @@
 const Education = () => {
     return (
-        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 bg-[#F1F1F1] mt-6 md:p-12 p-6">
+        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 bg-[#F1F1F1] mt-6 lg:p-12 md:p-8 p-6">
             <h2 className="md:text-3xl text-2xl font-bold text-center">Educational Qualification:</h2>
-            <div className="flex flex-col gap-2 md:gap-3 md:mt-6 mt-2">
+            <div className="flex flex-col md:gap-4 gap-3 md:mt-6 mt-2">
                 <div className="bg-white rounded-lg p-4">
                     <h2 className="md:text-2xl text-base font-bold">Master of Social Science</h2>
                     <hr className="my-2 border-[1px]"></hr>

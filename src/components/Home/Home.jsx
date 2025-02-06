@@ -4,6 +4,7 @@ import Hero from "../Hero/Hero";
 import Skills from "../Skills/Skills";
 import ProjectsSec from "../ProjectsSec/ProjectsSec";
 import Education from "../Education/Education";
+import ContactMe from "../ContactMe/ContactMe";
 
 const Home = () => {
 
@@ -16,6 +17,7 @@ const Home = () => {
             <Skills></Skills>
             <Education></Education>
             <ProjectsSec projects={projects}></ProjectsSec>
+            <ContactMe></ContactMe>
         </>
     );
 };
