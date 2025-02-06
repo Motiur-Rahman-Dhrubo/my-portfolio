@@ -5,8 +5,7 @@ const NavBar = () => {
     const links = <>
         <li><NavLink className='py-1 px-3' to="/">Home</NavLink></li>
         <li><NavLink className='py-1 px-3' to="/about-me">About Me</NavLink></li>
-        <li><NavLink className='py-1 px-3' to="/my-profile">My Profile</NavLink></li>
-        <li><NavLink className='py-1 px-3' to="/about-dev">About Dev</NavLink></li>
+        <li><NavLink className='py-1 px-3' to="/my-projects">My Projects</NavLink></li>
     </>
 
     return (
@@ -37,7 +36,7 @@ const NavBar = () => {
                     <Link to="/" className='hidden md:flex'><img className='w-[120px] h-12 rounded-md' src="/assets/logo.png" alt="logo" /></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="menu menu-horizontal px-1 gap-2">
                         {links}
                     </ul>
                 </div>

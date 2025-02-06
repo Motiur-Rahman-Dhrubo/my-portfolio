@@ -3,6 +3,7 @@ import App from "../App";
 import ErrorPage from "../components/ErrorPage/ErrorPage";
 import Home from "../components/Home/Home";
 import AboutMePage from "../components/AboutMePage/AboutMePage";
+import MyProjects from "../components/MyProjects/MyProjects";
 
 const Router = createBrowserRouter([
     {
@@ -19,37 +20,10 @@ const Router = createBrowserRouter([
                 path: "/about-me",
                 element: <AboutMePage></AboutMePage>,
             },
-        //     {
-        //         path: "/my-profile",
-        //         element: <PrivateRoute>
-        //             <MyProfile></MyProfile>
-        //         </PrivateRoute>,
-        //     },
-        //     {
-        //         path: "/about-dev",
-        //         element: <AboutDev></AboutDev>,
-        //     },
-        //     {
-        //         path: "/brand/:id",
-        //         element: <PrivateRoute>
-        //             <ExpectedBrand></ExpectedBrand>
-        //         </PrivateRoute>,
-        //         loader: ({ params }) => fetch('/brands.json')
-        //             .then(res => res.json())
-        //             .then(brands => brands.find(brand => brand._id === params.id))
-        //     },
-        //     {
-        //         path: "/sign-up",
-        //         element: <SignUp></SignUp>,
-        //     },
-        //     {
-        //         path: "/login",
-        //         element: <Login></Login>,
-        //     },
-        //     {
-        //         path: "/forget-password",
-        //         element: <ForgetPassword></ForgetPassword>,
-        //     },
+            {
+                path: "/my-projects",
+                element: <MyProjects></MyProjects>,
+            },
         ],
     },
 ]);
