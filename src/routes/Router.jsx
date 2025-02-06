@@ -9,11 +9,11 @@ const Router = createBrowserRouter([
         path: "/",
         element: <App></App>,
         errorElement: <ErrorPage></ErrorPage>,
-        // loader: () => fetch('/brands.json'),
         children: [
             {
                 path: "/",
                 element: <Home></Home>,
+                loader: () => fetch('/projects.json'),
             },
             {
                 path: "/about-me",

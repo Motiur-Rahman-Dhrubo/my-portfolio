@@ -6,38 +6,67 @@ const Skills = () => {
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
                     <img src="/assets/html.png" alt="html" className="w-full"/>
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">HTML5</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
                     <img src="/assets/css.png" alt="css" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">CSS3</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-green-200">
                     <img src="/assets/js.png" alt="js" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">JavaScript</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
                     <img src="/assets/bs.png" alt="bootstrap" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">BootStrap</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
                     <img src="/assets/tw.png" alt="tailwind" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">Tailwind CSS</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-green-200">
                     <img src="/assets/react.png" alt="react" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">React JS</p>
+                    <p className="text-xs text-center">Category: Frontend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-green-200">
                     <img src="/assets/node.png" alt="html" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">Node JS</p>
+                    <p className="text-xs text-center">Category: Backend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-orange-200">
                     <img src="/assets/fire.png" alt="firebase" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">Firebase</p>
+                    <p className="text-xs text-center">Category: Backend</p>
                 </div>
                 <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-orange-200">
                     <img src="/assets/mdb.png" alt="mongodb" className="w-full" />
                     <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">MongoDB</p>
+                    <p className="text-xs text-center">Category: Backend</p>
+                </div>
+                <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-green-200">
+                    <img src="/assets/git.png" alt="git" className="w-full" />
+                    <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">Git</p>
+                    <p className="text-xs text-center">Category: Tool</p>
+                </div>
+                <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
+                    <img src="/assets/chrome.png" alt="chrome" className="w-full" />
+                    <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">Chrome</p>
+                    <p className="text-xs text-center">Category: Tool</p>
+                </div>
+                <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
+                    <img src="/assets/github.png" alt="github" className="w-full" />
+                    <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">GitHub</p>
+                    <p className="text-xs text-center">Category: Tool</p>
+                </div>
+                <div className="lg:w-36 md:w-28 w-20 border p-2 rounded-lg hover:shadow-lg bg-blue-300">
+                    <img src="/assets/vs_code.png" alt="vs_code" className="w-full" />
+                    <p className="lg:text-lg md:text-md text-xs font-semibold text-center mt-1">VS Code</p>
+                    <p className="text-xs text-center">Category: Tool</p>
                 </div>
             </div>
             <div className="mt-6 flex gap-6">
