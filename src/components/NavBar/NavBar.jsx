@@ -9,7 +9,7 @@ const NavBar = () => {
     </>
 
     return (
-        <nav className='w-full sticky top-0 shadow-xl backdrop-blur-md border-b border-[#C4C6CA]'>
+        <nav className='w-full sticky top-0 shadow-xl backdrop-blur-md border-b border-[#C4C6CA] z-50'>
             <div className="navbar w-11/12 mx-auto px-0">
                 <div className="navbar-start">
                     <div className="dropdown">

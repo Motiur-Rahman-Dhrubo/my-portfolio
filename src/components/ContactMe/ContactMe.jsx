@@ -42,7 +42,7 @@ const ContactMe = () => {
     };
     
     return (
-        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 bg-[#F1F1F1] mt-6 lg:p-12 md:p-8 p-6 min-h-96">
+        <div className="w-11/12 rounded-2xl mx-auto shadow-xl md:mt-10 bg-[#F1F1F1] mt-6 lg:p-12 md:p-8 p-6">
             <h2 className="md:text-3xl text-2xl font-bold text-center">Contact Me:</h2>
             <div className="flex md:mt-6 mt-2 gap-4 md:flex-row flex-col">
                 <div className="md:w-1/2 w-full">

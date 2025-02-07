@@ -1,10 +1,10 @@
 [
   {
     "_id": "1",
-    "project_name": "JO.Car",
-    "project_img": "https://i.ibb.co.com/bmB8T37/Screenshot-2.png",
-    "live_link": "https://assignment-11-360e6.firebaseapp.com/",
-    "github_link": "https://github.com/programming-hero-web-course2/b10a11-client-side-Motiur-Rahman-Dhrubo",
+    "project_name": "M.tower",
+    "project_img": "https://i.ibb.co.com/cKTV0fJr/Screenshot-3.png",
+    "live_link": "https://assignment-12-47b30.web.app/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-12-client",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -20,48 +20,10 @@
   },
   {
     "_id": "2",
-    "project_name": "Chill Gamer",
-    "project_img": "https://i.ibb.co.com/BZPqghN/Screenshot-4.png",
-    "live_link": "https://assignment-10-5f987.firebaseapp.com/",
-    "github_link": "https://github.com/programming-hero-web-course2/b10-a10-client-side-Motiur-Rahman-Dhrubo",
-    "challenges": [
-      "Handling complex state management",
-      "Ensuring accessibility compliance",
-      "Custom animations for UI components"
-    ],
-    "lackings": [
-      "No offline support",
-      "Over-reliance on external libraries",
-      "Minimal user feedback system"
-    ],
-    "plan": "Incorporate offline support, reduce library dependencies, and integrate a feedback system.",
-    "technology": ["Vue.js", "Bootstrap", "Node.js"]
-  },
-  {
-    "_id": "3",
-    "project_name": "Discount PRO",
-    "project_img": "https://i.ibb.co.com/WKpWCj5/Screenshot-5.png",
-    "live_link": "https://assignment-9-98aab.web.app/",
-    "github_link": "https://github.com/programming-hero-web-course1/b10-a9-authentication-Motiur-Rahman-Dhrubo",
-    "challenges": [
-      "Database schema design",
-      "Real-time data synchronization",
-      "Custom user authentication"
-    ],
-    "lackings": [
-      "No multi-language support",
-      "Non-scalable database structure",
-      "Limited documentation"
-    ],
-    "plan": "Restructure the database for scalability, add multi-language support, and improve documentation.",
-    "technology": ["Angular", "Express.js", "MongoDB"]
-  },
-  {
-    "_id": "4",
-    "project_name": "Gadget Heaven",
-    "project_img": "https://i.ibb.co.com/QNZyRNY/Screenshot-6.png",
-    "live_link": "https://ph-assignment-8-by-motiur.netlify.app/",
-    "github_link": "https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Motiur-Rahman-Dhrubo",
+    "project_name": "JO.Car",
+    "project_img": "https://i.ibb.co.com/bmB8T37/Screenshot-2.png",
+    "live_link": "https://assignment-11-360e6.firebaseapp.com/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-11-client",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -76,11 +38,11 @@
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "5",
-    "project_name": "Dream-11",
-    "project_img": "https://i.ibb.co.com/9GvkvKs/Screenshot-7.png",
-    "live_link": "https://ph-assignment-7-by-motiur.netlify.app/",
-    "github_link": "https://github.com/programming-hero-web-course1/b10a7-dream-11-Motiur-Rahman-Dhrubo/",
+    "_id": "3",
+    "project_name": "Chill Gamer",
+    "project_img": "https://i.ibb.co.com/BZPqghN/Screenshot-4.png",
+    "live_link": "https://assignment-10-5f987.firebaseapp.com/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-10-client",
     "challenges": [
       "Handling complex state management",
       "Ensuring accessibility compliance",
@@ -95,11 +57,11 @@
     "technology": ["Vue.js", "Bootstrap", "Node.js"]
   },
   {
-    "_id": "6",
-    "project_name": "Peddy",
-    "project_img": "https://i.ibb.co.com/Yj3K1Xv/Screenshot-8.png",
-    "live_link": "https://ph-assignment-10-by-motiur.netlify.app/",
-    "github_link": "https://github.com/programming-hero-web-course2/b10a6-pet-adoption-Motiur-Rahman-Dhrubo/",
+    "_id": "4",
+    "project_name": "Discount PRO",
+    "project_img": "https://i.ibb.co.com/WKpWCj5/Screenshot-5.png",
+    "live_link": "https://assignment-9-98aab.web.app/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-9",
     "challenges": [
       "Database schema design",
       "Real-time data synchronization",
@@ -114,7 +76,64 @@
     "technology": ["Angular", "Express.js", "MongoDB"]
   },
   {
+    "_id": "5",
+    "project_name": "Gadget Heaven",
+    "project_img": "https://i.ibb.co.com/QNZyRNY/Screenshot-6.png",
+    "live_link": "https://ph-assignment-8-by-motiur.netlify.app/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-8",
+    "challenges": [
+      "Implementing responsive design",
+      "Optimizing page load time",
+      "Integrating third-party APIs"
+    ],
+    "lackings": [
+      "Limited test coverage",
+      "Inconsistent design in some sections",
+      "No dark mode support"
+    ],
+    "plan": "Improve UI/UX consistency, add test cases, and introduce dark mode in the next iteration.",
+    "technology": ["React", "Tailwind CSS", "Firebase"]
+  },
+  {
+    "_id": "6",
+    "project_name": "Dream-11",
+    "project_img": "https://i.ibb.co.com/9GvkvKs/Screenshot-7.png",
+    "live_link": "https://ph-assignment-7-by-motiur.netlify.app/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-7",
+    "challenges": [
+      "Handling complex state management",
+      "Ensuring accessibility compliance",
+      "Custom animations for UI components"
+    ],
+    "lackings": [
+      "No offline support",
+      "Over-reliance on external libraries",
+      "Minimal user feedback system"
+    ],
+    "plan": "Incorporate offline support, reduce library dependencies, and integrate a feedback system.",
+    "technology": ["Vue.js", "Bootstrap", "Node.js"]
+  },
+  {
     "_id": "7",
+    "project_name": "Peddy",
+    "project_img": "https://i.ibb.co.com/Yj3K1Xv/Screenshot-8.png",
+    "live_link": "https://ph-assignment-10-by-motiur.netlify.app/",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-6",
+    "challenges": [
+      "Database schema design",
+      "Real-time data synchronization",
+      "Custom user authentication"
+    ],
+    "lackings": [
+      "No multi-language support",
+      "Non-scalable database structure",
+      "Limited documentation"
+    ],
+    "plan": "Restructure the database for scalability, add multi-language support, and improve documentation.",
+    "technology": ["Angular", "Express.js", "MongoDB"]
+  },
+  {
+    "_id": "8",
     "project_name": "Donate Bangladesh",
     "project_img": "https://i.ibb.co.com/tmVdDBx/Screenshot-9.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-5/",
@@ -133,7 +152,7 @@
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "8",
+    "_id": "9",
     "project_name": "Rinterio",
     "project_img": "https://i.ibb.co.com/WWMZF0D/Screenshot-10.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-3/",
@@ -152,7 +171,7 @@
     "technology": ["Vue.js", "Bootstrap", "Node.js"]
   },
   {
-    "_id": "9",
+    "_id": "10",
     "project_name": "Fitness",
     "project_img": "https://i.ibb.co.com/R09Gh6g/Screenshot-11.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-2/",
@@ -171,7 +190,7 @@
     "technology": ["Angular", "Express.js", "MongoDB"]
   },
   {
-    "_id": "10",
+    "_id": "11",
     "project_name": "Motiur.R",
     "project_img": "https://i.ibb.co.com/HxScGps/Screenshot-12.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-1/",
@@ -190,7 +209,7 @@
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "11",
+    "_id": "12",
     "project_name": "About Motiur",
     "project_img": "https://i.ibb.co.com/8gCNfhT/Screenshot-13.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/about_me/",
