@@ -4,6 +4,7 @@ import ErrorPage from "../components/ErrorPage/ErrorPage";
 import Home from "../components/Home/Home";
 import AboutMePage from "../components/AboutMePage/AboutMePage";
 import MyProjects from "../components/MyProjects/MyProjects";
+import ViewDetails from "../components/ViewDetails/ViewDetails";
 
 const Router = createBrowserRouter([
     {
@@ -23,6 +24,11 @@ const Router = createBrowserRouter([
             {
                 path: "/my-projects",
                 element: <MyProjects></MyProjects>,
+                loader: () => fetch('/projects.json'),
+            },
+            {
+                path: "/view-details",
+                element: <ViewDetails></ViewDetails>,
             },
         ],
     },

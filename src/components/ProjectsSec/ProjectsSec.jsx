@@ -21,7 +21,7 @@ const ProjectsSec = ({ projects }) => {
                                 <a href={project.live_link} target="_blank" className='btn btn-sm btn-accent flex-1'><FaLink />Live Site</a>
                                 <a href={project.github_link} target="_blank" className='btn btn-sm btn-secondary flex-1 text-black'><FaGithub />GitHub</a>
                             </div>
-                            <button className='btn btn-sm btn-primary w-full mt-2'>View Details</button>
+                            <Link to="/view-details" state={{ project }} className='btn btn-sm btn-primary w-full mt-2'>View Details</Link>
                         </div>
                     </div>
                 ))}
