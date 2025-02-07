@@ -1,18 +1,29 @@
-// import PropTypes from "prop-types";
-import { useLocation } from "react-router-dom";
+import { useEffect } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
 
 const ViewDetails = () => {
 
     const location = useLocation();
     const { project } = location.state || {};
+    const navigate = useNavigate()
 
-    console.log(project);
+    useEffect(() => {
+        if (!project) {
+            navigate("/my-projects");
+        }
+    }, [project, navigate]);
+
+    if (!project) {
+        return null;
+    }
 
     return (
         <div className="w-11/12 max-w-[800px] rounded-2xl mx-auto shadow-xl md:mt-10 mt-6 lg:p-12 md:p-8 md:text-lg text-base">
             <img src={project.project_img} alt="web template" className='w-full aspect-[2/1] border md:border-black rounded-2xl' />
             <div className="md:p-0 p-6">
                 <h2 className="md:mt-6"><strong>Project Name:</strong> {project.project_name}</h2>
+                <p className="mt-2 font-bold">Description:</p>
+                <p className="ml-2 text-justify text-sm md:text-base">{project.description}</p>
                 <p className="mt-2 font-bold">Main Technology Used:</p>
                 <p className="mt-1">
                     {project.technology.map((tec, index) => (

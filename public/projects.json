@@ -5,6 +5,7 @@
     "project_img": "https://i.ibb.co.com/cKTV0fJr/Screenshot-3.png",
     "live_link": "https://assignment-12-47b30.web.app",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-12-client",
+    "description": "M.tower is a comprehensive Building Management System designed to simplify property management for administrators, enhance convenience for tenants, and ensure efficient collaboration among building members. With its modern UI and real-time data, M.tower provides a seamless experience for all stakeholders.",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -15,7 +16,11 @@
       "Inconsistent design in some sections",
       "No dark mode support"
     ],
-    "plans": ["Improve UI/UX consistency", "add test cases", "introduce dark mode in the next iteration"],
+    "plans": [
+      "Improve UI/UX consistency",
+      "add test cases",
+      "introduce dark mode in the next iteration"
+    ],
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
@@ -24,6 +29,7 @@
     "project_img": "https://i.ibb.co.com/bmB8T37/Screenshot-2.png",
     "live_link": "https://assignment-11-360e6.firebaseapp.com",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-11-client",
+    "description": "JO.Car is a feature-rich and user-centric car rental platform that allows users to seamlessly book, manage, and review cars. With a focus on real-time updates and an intuitive interface, JO.Car simplifies the car rental experience for both customers and service providers.",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -43,6 +49,7 @@
     "project_img": "https://i.ibb.co.com/BZPqghN/Screenshot-4.png",
     "live_link": "https://assignment-10-5f987.firebaseapp.com",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-10-client",
+    "description": "'Chill Gamer' is a user-friendly game review application where users can explore and share reviews of their favorite games. With its clean design and robust functionality, Chill Gamer provides a 'chill' experience for all gamers.",
     "challenges": [
       "Handling complex state management",
       "Ensuring accessibility compliance",
@@ -62,6 +69,7 @@
     "project_img": "https://i.ibb.co.com/WKpWCj5/Screenshot-5.png",
     "live_link": "https://assignment-9-98aab.web.app",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-9",
+    "description": "'Discount PRO' is a smart coupon aggregator that helps users find and apply discount codes for top e-commerce stores in South Asia. With Firebase Authentication, users can sign up via email or Google, browse categorized coupons, check discount details and expiry dates, and copy codes with a single click for instant savings.",
     "challenges": [
       "Database schema design",
       "Real-time data synchronization",
@@ -81,6 +89,7 @@
     "project_img": "https://i.ibb.co.com/QNZyRNY/Screenshot-6.png",
     "live_link": "https://ph-assignment-8-by-motiur.netlify.app",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-8",
+    "description": "'Gadget Heaven' is a modern and user-friendly platform for browsing and exploring gadgets across various categories. The application allows users to view detailed product specifications, filter gadgets by category, and add their favorite items to a wishlist for easy access. 'Gadget Heaven' ensures a seamless and responsive user experience.",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -100,6 +109,7 @@
     "project_img": "https://i.ibb.co.com/9GvkvKs/Screenshot-7.png",
     "live_link": "https://ph-assignment-7-by-motiur.netlify.app",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-7",
+    "description": "BPL-DREAM 11 is an fantastic web application that lets users create their own cricket franchise team. Users can browse through a variety of players, each with unique attributes and bidding prices, to build their ultimate squad. With a limited budget, strategic selections are key, allowing users to experience the excitement and decision-making involved in real-life franchise management.",
     "challenges": [
       "Handling complex state management",
       "Ensuring accessibility compliance",
@@ -119,6 +129,7 @@
     "project_img": "https://i.ibb.co.com/Yj3K1Xv/Screenshot-8.png",
     "live_link": "https://ph-assignment-10-by-motiur.netlify.app",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-6",
+    "description": "Peddy is a 'Pet Adoption Platform'. Where users can browse and adopt pets. There are various types of pets with different categories.",
     "challenges": [
       "Database schema design",
       "Real-time data synchronization",
@@ -138,6 +149,7 @@
     "project_img": "https://i.ibb.co.com/tmVdDBx/Screenshot-9.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-5",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-5/",
+    "description": "'Donate Bangladesh' is a user-friendly donation platform designed to help individuals contribute to critical causes across the country. Built with HTML, Tailwind CSS, and DaisyUI, this web application enables donors to support relief efforts in various regions, including flood-affected areas like Noakhali and Feni, as well as injured individuals from social movements.",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -157,6 +169,7 @@
     "project_img": "https://i.ibb.co.com/WWMZF0D/Screenshot-10.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-3",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-3/",
+    "description": "'Rinterio' is a modern, responsive website designed to showcase a real estate business with a focus on rustic barn house designs and sophisticated architectural elements. The site combines a clean, professional layout with engaging visuals, making it easy for visitors to explore the company’s portfolio and services.",
     "challenges": [
       "Handling complex state management",
       "Ensuring accessibility compliance",
@@ -176,6 +189,7 @@
     "project_img": "https://i.ibb.co.com/R09Gh6g/Screenshot-11.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-2",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-2/",
+    "description": "'Fitness' is a responsive health and wellness website built with HTML and CSS. It offers a variety of fitness resources, tips, and BMI calculators, designed to make fitness accessible to everyone. The site features a clean, professional layout with sections for services, programs, and a team of expert trainers, encouraging users to join the fitness community and stay healthy.",
     "challenges": [
       "Database schema design",
       "Real-time data synchronization",
@@ -195,6 +209,7 @@
     "project_img": "https://i.ibb.co.com/HxScGps/Screenshot-12.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-1",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/Assignment-1",
+    "description": "Motiur.R is a personal portfolio website created using HTML and CSS. It highlights my web development journey, featuring sections on my inspiration, learning goals, and contact information. The site includes a downloadable resume and links to my social media profiles, serving as a demo project to showcase my skills learned through Programming Hero.",
     "challenges": [
       "Implementing responsive design",
       "Optimizing page load time",
@@ -210,10 +225,11 @@
   },
   {
     "_id": "12",
-    "project_name": "About Motiur",
+    "project_name": "Motiur's Wab",
     "project_img": "https://i.ibb.co.com/8gCNfhT/Screenshot-13.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/about_me",
     "github_link": "https://github.com/Motiur-Rahman-Dhrubo/about_me",
+    "description": "'Motiur's Wab' is a dark-themed personal portfolio showcasing My education, work experience, client reviews, and blogs. It features AOS animations, a five-star rating system for reviews, and a contact section for easy communication. The blog adds a personal touch with poetic writings, making the site both professional and engaging.",
     "challenges": [
       "Handling complex state management",
       "Ensuring accessibility compliance",
