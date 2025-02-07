@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
+import Swal from "sweetalert2";
 
 const ViewDetails = () => {
 
@@ -9,6 +10,12 @@ const ViewDetails = () => {
 
     useEffect(() => {
         if (!project) {
+            Swal.fire({
+                position: "top",
+                icon: "error",
+                title: "Select a project details first.",
+                showConfirmButton: true,
+            });
             navigate("/my-projects");
         }
     }, [project, navigate]);
@@ -39,7 +46,7 @@ const ViewDetails = () => {
                 <p className="mt-2 font-bold">Challenges During Development:</p>
                 {project.challenges.map((challenge, index) => (
                     <p key={index} className="ml-2">
-                        {index+1}. {challenge}.
+                        {index + 1}. {challenge}.
                     </p>
                 ))}
                 <p className="mt-2 font-bold">Future Improvements and Plans:</p>
