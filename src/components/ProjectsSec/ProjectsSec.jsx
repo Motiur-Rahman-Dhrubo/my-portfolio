@@ -17,11 +17,11 @@ const ProjectsSec = ({ projects }) => {
                         </div>
                         <div className='p-4'>
                             <h2><strong>Project Name:</strong> {project.project_name}</h2>
-                            <div className='flex gap-2 mt-2'>
-                                <a href={project.live_link} target="_blank" className='btn btn-sm btn-accent flex-1'><FaLink />Live Site</a>
-                                <a href={project.github_link} target="_blank" className='btn btn-sm btn-secondary flex-1 text-black'><FaGithub />GitHub</a>
+                            <div className='flex gap-1 mt-2'>
+                                <a href={project.live_link} target="_blank" className='btn btn-sm flex-1 bg-[#007ABB] text-[#FFFFFF] hover:bg-[#005A8D]'><FaLink />Live Site</a>
+                                <a href={project.github_link} target="_blank" className='btn btn-sm flex-1 bg-[#24292E] text-[#FFFFFF] hover:bg-[#3B444B]'><FaGithub />GitHub</a>
                             </div>
-                            <Link to="/view-details" state={{ project }} className='btn btn-sm btn-primary w-full mt-2'>View Details</Link>
+                            <Link to="/view-details" state={{ project }} className='btn btn-sm w-full mt-1 bg-[#062561] text-[#FFFFFF] hover:bg-[#0A3B92]'>View Details</Link>
                         </div>
                     </div>
                 ))}
