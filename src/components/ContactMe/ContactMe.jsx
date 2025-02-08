@@ -57,8 +57,8 @@ const ContactMe = () => {
                     <h2 className="md:text-2xl text-base font-bold">Contact Information:</h2>
                     <p className="flex items-center gap-1 md:text-base text-sm"><FaHome />Dhaka, Bangladesh</p>
                     <p className="flex items-center gap-1 md:text-base text-sm"><MdEmail />mdmotiurrahman383@gmail.com</p>
-                    <p className="flex items-center gap-1 md:text-base text-sm"><IoCall />+88 01935 220383</p>
-                    <p className="flex items-center gap-1 md:text-base text-sm"><IoLogoWhatsapp />+88 01935 220383</p>
+                    <p className="flex items-center gap-1 md:text-base text-sm"><IoCall />+880 1935-220383</p>
+                    <p className="flex items-center gap-1 md:text-base text-sm"><IoLogoWhatsapp />+880 1935-220383</p>
                 </div>
             </div>
         </div>
