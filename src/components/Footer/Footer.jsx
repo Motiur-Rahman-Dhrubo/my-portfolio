@@ -12,7 +12,7 @@ const Footer = () => {
                 <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
                     <div className="flex md:gap-3 gap-2 text-3xl lg:text-4xl">
                         <a href="https://www.facebook.com/md.motiur.rahman.383" target="_blank"><FaFacebook className="text-[#0866FF]" /></a>
-                        <a href="https://www.linkedin.com/in/md-motiur-rahman-105598318/" target="_blank"><FaLinkedin className="text-[#0077B5]" /></a>
+                        <a href="https://www.linkedin.com/in/md-motiur-rahman-dhrubo/" target="_blank"><FaLinkedin className="text-[#0077B5]" /></a>
                         <a href="https://www.youtube.com/@ruitom.coder383" target="_blank"><FaYoutube className="text-[#FF0033]" /></a>
                         <a href="https://github.com/Motiur-Rahman-Dhrubo" target="_blank"><FaGithub /></a>
                     </div>
