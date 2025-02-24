@@ -41,7 +41,7 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a href="/assets/motiur.pdf" download="The-Resume" className='btn bg-[#062561] text-[#42F3F7] border-none hover:bg-[#007ABB]'>Download Resume</a>
+                    <a href="/assets/resume.pdf" download="The-Resume" className='btn bg-[#062561] text-[#42F3F7] border-none hover:bg-[#007ABB]'>Download Resume</a>
                 </div>
             </div>
         </nav>

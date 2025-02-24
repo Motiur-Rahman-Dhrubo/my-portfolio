@@ -7,7 +7,7 @@ const Hero = () => {
     return (
         <div className="w-11/12 rounded-2xl mx-auto flex flex-col md:flex-row-reverse shadow-xl lg:p-12 md:p-8 p-6 md:px-8 md:gap-12 gap-8 md:mt-10 mt-6">
             <div className="lg:w-4/12 md:w-1/2 w-full flex md:justify-end justify-center">
-                <img src="/assets/me.jpg" alt="my_img" className="w-full lg:max-w-96 max-w-80 aspect-[1/1] rounded-full border-2 border-black"/>
+                <img src="/assets/me.png" alt="my_img" className="w-full lg:max-w-96 max-w-80 aspect-[1/1] rounded-full border-2 border-black object-cover object-top"/>
             </div>
             <div className="lg:w-8/12 md:w-1/2 w-full flex flex-col justify-center gap-2">
                 <h2 className="lg:text-xl text-base">HI THERE! I’M</h2>
@@ -20,7 +20,7 @@ const Hero = () => {
                     <a href="https://github.com/Motiur-Rahman-Dhrubo" target="_blank"><FaGithub /></a>
                 </div>
                 <div className="mt-2">
-                    <a href="/assets/motiur.pdf" download="The-Resume" className='btn bg-[#062561] text-[#42F3F7] border-none hover:bg-[#007ABB]'>Download Resume</a>
+                    <a href="/assets/resume.pdf" download="The-Resume" className='btn bg-[#062561] text-[#42F3F7] border-none hover:bg-[#007ABB]'>Download Resume</a>
                 </div>
             </div>
         </div>
