@@ -1,6 +1,6 @@
 [
   {
-    "_id": "1",
+    "_id": "0001",
     "project_name": "M.tower",
     "project_img": "https://i.ibb.co.com/cKTV0fJr/Screenshot-3.png",
     "live_link": "https://assignment-12-47b30.web.app",
@@ -24,7 +24,7 @@
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "2",
+    "_id": "0002",
     "project_name": "JO.Car",
     "project_img": "https://i.ibb.co.com/bmB8T37/Screenshot-2.png",
     "live_link": "https://assignment-11-360e6.firebaseapp.com",
@@ -40,11 +40,15 @@
       "Inconsistent design in some sections",
       "No dark mode support"
     ],
-    "plans": ["Improve UI/UX consistency", "add test cases", "introduce dark mode in the next iteration"],
+    "plans": [
+      "Improve UI/UX consistency",
+      "add test cases",
+      "introduce dark mode in the next iteration"
+    ],
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "3",
+    "_id": "0003",
     "project_name": "Chill Gamer",
     "project_img": "https://i.ibb.co.com/BZPqghN/Screenshot-4.png",
     "live_link": "https://assignment-10-5f987.firebaseapp.com",
@@ -60,11 +64,39 @@
       "Over-reliance on external libraries",
       "Minimal user feedback system"
     ],
-    "plans": ["Incorporate offline support", "reduce library dependencies", "integrate a feedback system"],
-    "technology": ["Vue.js", "Bootstrap", "Node.js"]
+    "plans": [
+      "Incorporate offline support",
+      "reduce library dependencies",
+      "integrate a feedback system"
+    ],
+    "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "4",
+    "_id": "0004",
+    "project_name": "Y.task",
+    "project_img": "https://i.ibb.co.com/DgKVNTZd/Screenshot-514.png",
+    "live_link": "https://job-task-50885.web.app",
+    "github_link": "https://github.com/Motiur-Rahman-Dhrubo/job-task-client",
+    "description": "'Y.task' is a Task Management Application where users can add, edit, delete, and categorize tasks into three sections: To-Do, In Progress, and Done. The application features a clean, minimalistic UI and ensures data persistence using a backend API. It is fully responsive and designed for both desktop and mobile users.",
+    "challenges": [
+      "Handling complex state management",
+      "Ensuring accessibility compliance",
+      "Custom animations for UI components"
+    ],
+    "lackings": [
+      "No offline support",
+      "Over-reliance on external libraries",
+      "Minimal user feedback system"
+    ],
+    "plans": [
+      "Incorporate offline support",
+      "reduce library dependencies",
+      "integrate a feedback system"
+    ],
+    "technology": ["React", "Tailwind CSS", "Firebase"]
+  },
+  {
+    "_id": "0005",
     "project_name": "Discount PRO",
     "project_img": "https://i.ibb.co.com/WKpWCj5/Screenshot-5.png",
     "live_link": "https://assignment-9-98aab.web.app",
@@ -80,11 +112,15 @@
       "Non-scalable database structure",
       "Limited documentation"
     ],
-    "plans": ["Restructure the database for scalability", "add multi-language support", "improve documentation"],
+    "plans": [
+      "Restructure the database for scalability",
+      "add multi-language support",
+      "improve documentation"
+    ],
     "technology": ["Angular", "Express.js", "MongoDB"]
   },
   {
-    "_id": "5",
+    "_id": "0006",
     "project_name": "Gadget Heaven",
     "project_img": "https://i.ibb.co.com/QNZyRNY/Screenshot-6.png",
     "live_link": "https://ph-assignment-8-by-motiur.netlify.app",
@@ -100,11 +136,15 @@
       "Inconsistent design in some sections",
       "No dark mode support"
     ],
-    "plans": ["Improve UI/UX consistency", "add test cases", "introduce dark mode in the next iteration"],
+    "plans": [
+      "Improve UI/UX consistency",
+      "add test cases",
+      "introduce dark mode in the next iteration"
+    ],
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "6",
+    "_id": "0007",
     "project_name": "Dream-11",
     "project_img": "https://i.ibb.co.com/9GvkvKs/Screenshot-7.png",
     "live_link": "https://ph-assignment-7-by-motiur.netlify.app",
@@ -120,11 +160,15 @@
       "Over-reliance on external libraries",
       "Minimal user feedback system"
     ],
-    "plans": ["Incorporate offline support", "reduce library dependencies", "integrate a feedback system"],
+    "plans": [
+      "Incorporate offline support",
+      "reduce library dependencies",
+      "integrate a feedback system"
+    ],
     "technology": ["Vue.js", "Bootstrap", "Node.js"]
   },
   {
-    "_id": "7",
+    "_id": "0008",
     "project_name": "Peddy",
     "project_img": "https://i.ibb.co.com/Yj3K1Xv/Screenshot-8.png",
     "live_link": "https://ph-assignment-10-by-motiur.netlify.app",
@@ -140,11 +184,15 @@
       "Non-scalable database structure",
       "Limited documentation"
     ],
-    "plans": ["Restructure the database for scalability", "add multi-language support", "improve documentation"],
+    "plans": [
+      "Restructure the database for scalability",
+      "add multi-language support",
+      "improve documentation"
+    ],
     "technology": ["Angular", "Express.js", "MongoDB"]
   },
   {
-    "_id": "8",
+    "_id": "0009",
     "project_name": "Donate Bangladesh",
     "project_img": "https://i.ibb.co.com/tmVdDBx/Screenshot-9.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-5",
@@ -160,11 +208,15 @@
       "Inconsistent design in some sections",
       "No dark mode support"
     ],
-    "plans": ["Improve UI/UX consistency", "add test cases", "introduce dark mode in the next iteration"],
+    "plans": [
+      "Improve UI/UX consistency",
+      "add test cases",
+      "introduce dark mode in the next iteration"
+    ],
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "9",
+    "_id": "0010",
     "project_name": "Rinterio",
     "project_img": "https://i.ibb.co.com/WWMZF0D/Screenshot-10.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-3",
@@ -180,11 +232,15 @@
       "Over-reliance on external libraries",
       "Minimal user feedback system"
     ],
-    "plans": ["Incorporate offline support", "reduce library dependencies", "integrate a feedback system"],
+    "plans": [
+      "Incorporate offline support",
+      "reduce library dependencies",
+      "integrate a feedback system"
+    ],
     "technology": ["Vue.js", "Bootstrap", "Node.js"]
   },
   {
-    "_id": "10",
+    "_id": "0011",
     "project_name": "Fitness",
     "project_img": "https://i.ibb.co.com/R09Gh6g/Screenshot-11.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-2",
@@ -200,11 +256,15 @@
       "Non-scalable database structure",
       "Limited documentation"
     ],
-    "plans": ["Restructure the database for scalability", "add multi-language support", "improve documentation"],
+    "plans": [
+      "Restructure the database for scalability",
+      "add multi-language support",
+      "improve documentation"
+    ],
     "technology": ["Angular", "Express.js", "MongoDB"]
   },
   {
-    "_id": "11",
+    "_id": "0012",
     "project_name": "Motiur.R",
     "project_img": "https://i.ibb.co.com/HxScGps/Screenshot-12.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/Assignment-1",
@@ -220,11 +280,15 @@
       "Inconsistent design in some sections",
       "No dark mode support"
     ],
-    "plans": ["Improve UI/UX consistency", "add test cases", "introduce dark mode in the next iteration"],
+    "plans": [
+      "Improve UI/UX consistency",
+      "add test cases",
+      "introduce dark mode in the next iteration"
+    ],
     "technology": ["React", "Tailwind CSS", "Firebase"]
   },
   {
-    "_id": "12",
+    "_id": "0013",
     "project_name": "Motiur's Wab",
     "project_img": "https://i.ibb.co.com/8gCNfhT/Screenshot-13.png",
     "live_link": "https://motiur-rahman-dhrubo.github.io/about_me",
@@ -240,7 +304,11 @@
       "Over-reliance on external libraries",
       "Minimal user feedback system"
     ],
-    "plans": ["Incorporate offline support", "reduce library dependencies", "integrate a feedback system"],
+    "plans": [
+      "Incorporate offline support",
+      "reduce library dependencies",
+      "integrate a feedback system"
+    ],
     "technology": ["Vue.js", "Bootstrap", "Node.js"]
   }
 ]
